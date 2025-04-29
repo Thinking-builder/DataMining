@@ -1,0 +1,258 @@
+[2025-04-28 22:18:33] PageRank_bitmap.exe
+Maximum: 4.62 MB
+Time: 1.93 秒
+
+[2025-04-28 22:18:34] PageRank_bitmap.exe
+Maximum: 4.13 MB
+Time: 1.64 秒
+
+[2025-04-28 22:18:36] PageRank_bitmap.exe
+Maximum: 4.23 MB
+Time: 1.59 秒
+
+[2025-04-28 22:18:37] PageRank_bitmap.exe
+Maximum: 4.32 MB
+Time: 1.56 秒
+
+[2025-04-28 22:18:39] PageRank_bitmap.exe
+Maximum: 4.25 MB
+Time: 1.65 秒
+
+[2025-04-28 22:18:41] PageRank_bitmap.exe
+Maximum: 4.44 MB
+Time: 1.68 秒
+
+[2025-04-28 22:18:43] PageRank_bitmap.exe
+Maximum: 4.63 MB
+Time: 1.85 秒
+
+[2025-04-28 22:18:44] PageRank_bitmap.exe
+Maximum: 4.27 MB
+Time: 1.54 秒
+
+[2025-04-28 22:18:46] PageRank_bitmap.exe
+Maximum: 4.67 MB
+Time: 1.75 秒
+
+[2025-04-28 22:18:47] PageRank_bitmap.exe
+Maximum: 4.30 MB
+Time: 1.53 秒
+
+[2025-04-28 22:18:47] PageRank_bitmap.cpp - avg (10 epoches)
+avg mm used: 4.39 MB
+
+[2025-04-28 22:26:40] PageRank_bitmap.exe
+Maximum: 5.58 MB
+Time: 2.07 秒
+
+[2025-04-28 22:26:42] PageRank_bitmap.exe
+Maximum: 5.11 MB
+Time: 1.69 秒
+
+[2025-04-28 22:26:44] PageRank_bitmap.exe
+Maximum: 5.11 MB
+Time: 1.71 秒
+
+[2025-04-28 22:26:45] PageRank_bitmap.exe
+Maximum: 5.19 MB
+Time: 1.64 秒
+
+[2025-04-28 22:26:47] PageRank_bitmap.exe
+Maximum: 5.10 MB
+Time: 1.91 秒
+
+[2025-04-28 22:26:49] PageRank_bitmap.exe
+Maximum: 5.53 MB
+Time: 1.92 秒
+
+[2025-04-28 22:26:51] PageRank_bitmap.exe
+Maximum: 5.57 MB
+Time: 1.88 秒
+
+[2025-04-28 22:26:53] PageRank_bitmap.exe
+Maximum: 5.59 MB
+Time: 2.43 秒
+
+[2025-04-28 22:26:55] PageRank_bitmap.exe
+Maximum: 5.11 MB
+Time: 1.91 秒
+
+[2025-04-28 22:26:57] PageRank_bitmap.exe
+Maximum: 5.51 MB
+Time: 2.10 秒
+
+[2025-04-28 22:26:57] PageRank_bitmap.cpp - avg (10 epoches)
+avg mm used: 5.34 MB
+
+[2025-04-28 22:29:47] PageRank_bitmap.exe
+Maximum: 3.79 MB
+Time: 1.74 秒
+
+[2025-04-28 22:29:48] PageRank_bitmap.exe
+Maximum: 3.79 MB
+Time: 1.56 秒
+
+[2025-04-28 22:29:50] PageRank_bitmap.exe
+Maximum: 3.79 MB
+Time: 1.39 秒
+
+[2025-04-28 22:29:51] PageRank_bitmap.exe
+Maximum: 3.79 MB
+Time: 1.57 秒
+
+[2025-04-28 22:29:53] PageRank_bitmap.exe
+Maximum: 3.79 MB
+Time: 1.39 秒
+
+[2025-04-28 22:29:54] PageRank_bitmap.exe
+Maximum: 3.79 MB
+Time: 1.44 秒
+
+[2025-04-28 22:29:55] PageRank_bitmap.exe
+Maximum: 3.79 MB
+Time: 1.45 秒
+
+[2025-04-28 22:29:57] PageRank_bitmap.exe
+Maximum: 3.79 MB
+Time: 1.35 秒
+
+[2025-04-28 22:29:58] PageRank_bitmap.exe
+Maximum: 3.79 MB
+Time: 1.35 秒
+
+[2025-04-28 22:30:00] PageRank_bitmap.exe
+Maximum: 3.79 MB
+Time: 1.63 秒
+
+[2025-04-28 22:30:00] PageRank_bitmap.cpp - avg (10 epoches)
+avg mm used: 3.79 MB
+
+[2025-04-28 22:35:02] PageRank_bitmap.exe
+Maximum: 5.39 MB
+Time: 1.32 秒
+
+[2025-04-28 22:35:03] PageRank_bitmap.exe
+Maximum: 5.30 MB
+Time: 0.98 秒
+
+[2025-04-28 22:35:04] PageRank_bitmap.exe
+Maximum: 5.28 MB
+Time: 0.99 秒
+
+[2025-04-28 22:35:05] PageRank_bitmap.exe
+Maximum: 5.29 MB
+Time: 0.87 秒
+
+[2025-04-28 22:35:06] PageRank_bitmap.exe
+Maximum: 5.15 MB
+Time: 0.98 秒
+
+[2025-04-28 22:35:07] PageRank_bitmap.exe
+Maximum: 5.10 MB
+Time: 0.98 秒
+
+[2025-04-28 22:35:08] PageRank_bitmap.exe
+Maximum: 5.10 MB
+Time: 1.06 秒
+
+[2025-04-28 22:35:09] PageRank_bitmap.exe
+Maximum: 5.26 MB
+Time: 1.01 秒
+
+[2025-04-28 22:35:10] PageRank_bitmap.exe
+Maximum: 5.37 MB
+Time: 0.96 秒
+
+[2025-04-28 22:35:11] PageRank_bitmap.exe
+Maximum: 5.22 MB
+Time: 1.01 秒
+
+[2025-04-28 22:35:11] PageRank_bitmap.cpp - avg (10 epoches)
+avg mm used: 5.25 MB
+
+[2025-04-28 22:38:04] PageRank_bitmap.exe
+Maximum: 3.89 MB
+Time: 1.44 秒
+
+[2025-04-28 22:38:06] PageRank_bitmap.exe
+Maximum: 3.89 MB
+Time: 1.06 秒
+
+[2025-04-28 22:38:06] PageRank_bitmap.exe
+Maximum: 3.89 MB
+Time: 0.96 秒
+
+[2025-04-28 22:38:08] PageRank_bitmap.exe
+Maximum: 3.89 MB
+Time: 1.04 秒
+
+[2025-04-28 22:38:08] PageRank_bitmap.exe
+Maximum: 3.93 MB
+Time: 0.95 秒
+
+[2025-04-28 22:38:09] PageRank_bitmap.exe
+Maximum: 3.89 MB
+Time: 1.01 秒
+
+[2025-04-28 22:38:10] PageRank_bitmap.exe
+Maximum: 3.89 MB
+Time: 0.95 秒
+
+[2025-04-28 22:38:12] PageRank_bitmap.exe
+Maximum: 3.89 MB
+Time: 1.15 秒
+
+[2025-04-28 22:38:13] PageRank_bitmap.exe
+Maximum: 3.89 MB
+Time: 0.95 秒
+
+[2025-04-28 22:38:13] PageRank_bitmap.exe
+Maximum: 3.89 MB
+Time: 0.98 秒
+
+[2025-04-28 22:38:13] PageRank_bitmap.cpp - avg (10 epoches)
+avg mm used: 3.89 MB
+
+[2025-04-28 22:44:01] PageRank_bitmap.exe
+Maximum: 3.89 MB
+Time: 1.59 秒
+
+[2025-04-28 22:44:02] PageRank_bitmap.exe
+Maximum: 3.89 MB
+Time: 1.04 秒
+
+[2025-04-28 22:44:03] PageRank_bitmap.exe
+Maximum: 3.89 MB
+Time: 0.92 秒
+
+[2025-04-28 22:44:04] PageRank_bitmap.exe
+Maximum: 3.89 MB
+Time: 1.17 秒
+
+[2025-04-28 22:44:05] PageRank_bitmap.exe
+Maximum: 3.89 MB
+Time: 0.97 秒
+
+[2025-04-28 22:44:06] PageRank_bitmap.exe
+Maximum: 3.89 MB
+Time: 0.95 秒
+
+[2025-04-28 22:44:07] PageRank_bitmap.exe
+Maximum: 3.89 MB
+Time: 1.10 秒
+
+[2025-04-28 22:44:08] PageRank_bitmap.exe
+Maximum: 3.89 MB
+Time: 1.04 秒
+
+[2025-04-28 22:44:09] PageRank_bitmap.exe
+Maximum: 3.89 MB
+Time: 1.08 秒
+
+[2025-04-28 22:44:10] PageRank_bitmap.exe
+Maximum: 3.89 MB
+Time: 1.07 秒
+
+[2025-04-28 22:44:10] PageRank_bitmap.cpp - avg (10 epoches)
+avg mm used: 3.89 MB
+
