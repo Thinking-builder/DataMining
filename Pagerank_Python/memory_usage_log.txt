@@ -1,0 +1,1028 @@
+[2025-04-07 21:20:27] pagerank.py
+Maximum: 0.14 MB
+Time: 0.11 s
+
+[2025-04-07 21:20:27] pagerank.py
+Maximum: 0.11 MB
+Time: 0.11 s
+
+[2025-04-07 21:20:27] pagerank.py
+Maximum: 0.12 MB
+Time: 0.11 s
+
+[2025-04-07 21:20:28] pagerank.py
+Maximum: 0.09 MB
+Time: 0.11 s
+
+[2025-04-07 21:20:28] pagerank.py
+Maximum: 0.14 MB
+Time: 0.11 s
+
+[2025-04-07 21:20:28] pagerank.py
+Maximum: 0.14 MB
+Time: 0.11 s
+
+[2025-04-07 21:20:28] pagerank.py
+Maximum: 0.14 MB
+Time: 0.11 s
+
+[2025-04-07 21:20:28] pagerank.py
+Maximum: 0.11 MB
+Time: 0.11 s
+
+[2025-04-07 21:20:28] pagerank.py
+Maximum: 0.12 MB
+Time: 0.11 s
+
+[2025-04-07 21:20:28] pagerank.py
+Maximum: 0.11 MB
+Time: 0.11 s
+
+[2025-04-07 21:20:45] pagerank.py
+Maximum: 32.77 MB
+Time: 0.42 s
+
+[2025-04-07 21:20:46] pagerank.py
+Maximum: 32.25 MB
+Time: 0.32 s
+
+[2025-04-07 21:20:46] pagerank.py
+Maximum: 32.25 MB
+Time: 0.32 s
+
+[2025-04-07 21:20:46] pagerank.py
+Maximum: 32.25 MB
+Time: 0.32 s
+
+[2025-04-07 21:20:47] pagerank.py
+Maximum: 32.25 MB
+Time: 0.32 s
+
+[2025-04-07 21:20:47] pagerank.py
+Maximum: 32.33 MB
+Time: 0.32 s
+
+[2025-04-07 21:20:47] pagerank.py
+Maximum: 32.25 MB
+Time: 0.32 s
+
+[2025-04-07 21:20:47] pagerank.py
+Maximum: 32.25 MB
+Time: 0.32 s
+
+[2025-04-07 21:20:48] pagerank.py
+Maximum: 32.25 MB
+Time: 0.32 s
+
+[2025-04-07 21:20:48] pagerank.py
+Maximum: 32.25 MB
+Time: 0.32 s
+
+[2025-04-14 16:20:23] pagerank.py
+Maximum: 28.36 MB
+Time: 0.21 s
+
+[2025-04-14 16:20:23] pagerank.py
+Maximum: 0.14 MB
+Time: 0.11 s
+
+[2025-04-14 16:20:23] pagerank.py
+Maximum: 0.14 MB
+Time: 0.11 s
+
+[2025-04-14 16:20:23] pagerank.py
+Maximum: 0.11 MB
+Time: 0.11 s
+
+[2025-04-14 16:20:23] pagerank.py
+Maximum: 0.12 MB
+Time: 0.11 s
+
+[2025-04-14 16:20:23] pagerank.py
+Maximum: 0.14 MB
+Time: 0.11 s
+
+[2025-04-14 16:20:23] pagerank.py
+Maximum: 0.12 MB
+Time: 0.11 s
+
+[2025-04-14 16:20:23] pagerank.py
+Maximum: 0.14 MB
+Time: 0.11 s
+
+[2025-04-14 16:20:23] pagerank.py
+Maximum: 0.14 MB
+Time: 0.11 s
+
+[2025-04-14 16:20:24] pagerank.py
+Maximum: 0.11 MB
+Time: 0.11 s
+
+[2025-04-14 16:21:23] pagerank.py
+Maximum: 33.69 MB
+Time: 10.31 s
+
+[2025-04-14 16:21:33] pagerank.py
+Maximum: 32.91 MB
+Time: 10.33 s
+
+[2025-04-14 16:21:43] pagerank.py
+Maximum: 33.20 MB
+Time: 10.28 s
+
+[2025-04-14 16:21:54] pagerank.py
+Maximum: 35.28 MB
+Time: 10.38 s
+
+[2025-04-14 16:22:04] pagerank.py
+Maximum: 34.91 MB
+Time: 10.35 s
+
+[2025-04-14 16:22:14] pagerank.py
+Maximum: 34.14 MB
+Time: 10.28 s
+
+[2025-04-14 16:22:25] pagerank.py
+Maximum: 33.20 MB
+Time: 10.37 s
+
+[2025-04-14 16:22:35] pagerank.py
+Maximum: 35.17 MB
+Time: 10.38 s
+
+[2025-04-14 16:22:46] pagerank.py
+Maximum: 35.14 MB
+Time: 10.40 s
+
+[2025-04-14 16:22:56] pagerank.py
+Maximum: 32.91 MB
+Time: 10.36 s
+
+[2025-04-14 16:30:03] pagerank.py
+Maximum: 34.14 MB
+Time: 4.20 s
+
+[2025-04-14 16:30:07] pagerank.py
+Maximum: 31.98 MB
+Time: 4.10 s
+
+[2025-04-14 16:30:11] pagerank.py
+Maximum: 31.98 MB
+Time: 4.20 s
+
+[2025-04-14 16:30:15] pagerank.py
+Maximum: 31.98 MB
+Time: 4.20 s
+
+[2025-04-14 16:30:20] pagerank.py
+Maximum: 31.98 MB
+Time: 4.10 s
+
+[2025-04-14 16:30:24] pagerank.py
+Maximum: 31.98 MB
+Time: 4.10 s
+
+[2025-04-14 16:30:28] pagerank.py
+Maximum: 32.28 MB
+Time: 4.20 s
+
+[2025-04-14 16:30:32] pagerank.py
+Maximum: 33.56 MB
+Time: 4.09 s
+
+[2025-04-14 16:30:36] pagerank.py
+Maximum: 32.95 MB
+Time: 4.27 s
+
+[2025-04-14 16:30:40] pagerank.py
+Maximum: 33.47 MB
+Time: 4.17 s
+
+[2025-04-14 16:34:14] pagerank.py
+Maximum: 33.20 MB
+Time: 3.99 s
+
+[2025-04-14 16:34:18] pagerank.py
+Maximum: 32.27 MB
+Time: 4.10 s
+
+[2025-04-14 16:34:22] pagerank.py
+Maximum: 32.59 MB
+Time: 4.10 s
+
+[2025-04-14 16:34:26] pagerank.py
+Maximum: 31.98 MB
+Time: 4.10 s
+
+[2025-04-14 16:34:30] pagerank.py
+Maximum: 31.98 MB
+Time: 4.10 s
+
+[2025-04-14 16:34:34] pagerank.py
+Maximum: 32.30 MB
+Time: 4.10 s
+
+[2025-04-14 16:34:39] pagerank.py
+Maximum: 32.48 MB
+Time: 4.09 s
+
+[2025-04-14 16:34:43] pagerank.py
+Maximum: 32.89 MB
+Time: 3.99 s
+
+[2025-04-14 16:34:47] pagerank.py
+Maximum: 32.06 MB
+Time: 4.20 s
+
+[2025-04-14 16:34:51] pagerank.py
+Maximum: 31.98 MB
+Time: 4.09 s
+
+[2025-04-14 18:39:16] pagerank2.py
+Maximum: 0.14 MB
+Time: 0.11 s
+
+[2025-04-14 18:39:16] pagerank2.py
+Maximum: 0.11 MB
+Time: 0.11 s
+
+[2025-04-14 18:39:17] pagerank2.py
+Maximum: 0.09 MB
+Time: 0.11 s
+
+[2025-04-14 18:39:17] pagerank2.py
+Maximum: 0.12 MB
+Time: 0.11 s
+
+[2025-04-14 18:39:17] pagerank2.py
+Maximum: 0.14 MB
+Time: 0.10 s
+
+[2025-04-14 18:39:17] pagerank2.py
+Maximum: 0.11 MB
+Time: 0.11 s
+
+[2025-04-14 18:39:17] pagerank2.py
+Maximum: 0.12 MB
+Time: 0.11 s
+
+[2025-04-14 18:39:17] pagerank2.py
+Maximum: 0.12 MB
+Time: 0.10 s
+
+[2025-04-14 18:39:17] pagerank2.py
+Maximum: 0.11 MB
+Time: 0.11 s
+
+[2025-04-14 18:39:17] pagerank2.py
+Maximum: 0.12 MB
+Time: 0.11 s
+
+[2025-04-14 18:45:17] pagerank2.py
+Maximum: 17.34 MB
+Time: 0.21 s
+
+[2025-04-14 18:45:17] pagerank2.py
+Maximum: 17.34 MB
+Time: 0.21 s
+
+[2025-04-14 18:45:17] pagerank2.py
+Maximum: 17.34 MB
+Time: 0.21 s
+
+[2025-04-14 18:45:17] pagerank2.py
+Maximum: 17.34 MB
+Time: 0.21 s
+
+[2025-04-14 18:45:18] pagerank2.py
+Maximum: 17.34 MB
+Time: 0.21 s
+
+[2025-04-14 18:45:18] pagerank2.py
+Maximum: 17.34 MB
+Time: 0.21 s
+
+[2025-04-14 18:45:18] pagerank2.py
+Maximum: 17.34 MB
+Time: 0.21 s
+
+[2025-04-14 18:45:18] pagerank2.py
+Maximum: 17.34 MB
+Time: 0.21 s
+
+[2025-04-14 18:45:18] pagerank2.py
+Maximum: 17.34 MB
+Time: 0.21 s
+
+[2025-04-14 18:45:19] pagerank2.py
+Maximum: 17.34 MB
+Time: 0.21 s
+
+[2025-04-14 18:46:49] pagerank2.py
+Maximum: 19.86 MB
+Time: 0.32 s
+
+[2025-04-14 18:46:50] pagerank2.py
+Maximum: 19.56 MB
+Time: 0.32 s
+
+[2025-04-14 18:46:50] pagerank2.py
+Maximum: 19.56 MB
+Time: 0.32 s
+
+[2025-04-14 18:46:50] pagerank2.py
+Maximum: 19.56 MB
+Time: 0.32 s
+
+[2025-04-14 18:46:51] pagerank2.py
+Maximum: 19.56 MB
+Time: 0.32 s
+
+[2025-04-14 18:46:51] pagerank2.py
+Maximum: 19.72 MB
+Time: 0.32 s
+
+[2025-04-14 18:46:51] pagerank2.py
+Maximum: 19.56 MB
+Time: 0.32 s
+
+[2025-04-14 18:46:51] pagerank2.py
+Maximum: 19.56 MB
+Time: 0.32 s
+
+[2025-04-14 18:46:52] pagerank2.py
+Maximum: 19.56 MB
+Time: 0.32 s
+
+[2025-04-14 18:46:52] pagerank2.py
+Maximum: 19.56 MB
+Time: 0.32 s
+
+[2025-04-14 18:47:07] pagerank2.py
+Maximum: 17.34 MB
+Time: 0.21 s
+
+[2025-04-14 18:47:07] pagerank2.py
+Maximum: 17.34 MB
+Time: 0.21 s
+
+[2025-04-14 18:47:07] pagerank2.py
+Maximum: 17.34 MB
+Time: 0.21 s
+
+[2025-04-14 18:47:08] pagerank2.py
+Maximum: 17.34 MB
+Time: 0.21 s
+
+[2025-04-14 18:47:08] pagerank2.py
+Maximum: 17.34 MB
+Time: 0.21 s
+
+[2025-04-14 18:47:08] pagerank2.py
+Maximum: 17.34 MB
+Time: 0.21 s
+
+[2025-04-14 18:47:08] pagerank2.py
+Maximum: 17.34 MB
+Time: 0.21 s
+
+[2025-04-14 18:47:09] pagerank2.py
+Maximum: 17.34 MB
+Time: 0.21 s
+
+[2025-04-14 18:47:09] pagerank2.py
+Maximum: 17.34 MB
+Time: 0.21 s
+
+[2025-04-14 18:47:09] pagerank2.py
+Maximum: 17.34 MB
+Time: 0.21 s
+
+[2025-04-14 18:47:30] pagerank2.py
+Maximum: 17.09 MB
+Time: 0.21 s
+
+[2025-04-14 18:47:31] pagerank2.py
+Maximum: 17.06 MB
+Time: 0.21 s
+
+[2025-04-14 18:47:31] pagerank2.py
+Maximum: 17.44 MB
+Time: 0.21 s
+
+[2025-04-14 18:47:31] pagerank2.py
+Maximum: 17.20 MB
+Time: 0.21 s
+
+[2025-04-14 18:47:31] pagerank2.py
+Maximum: 17.03 MB
+Time: 0.21 s
+
+[2025-04-14 18:47:31] pagerank2.py
+Maximum: 17.44 MB
+Time: 0.21 s
+
+[2025-04-14 18:47:32] pagerank2.py
+Maximum: 16.80 MB
+Time: 0.21 s
+
+[2025-04-14 18:47:32] pagerank2.py
+Maximum: 17.38 MB
+Time: 0.21 s
+
+[2025-04-14 18:47:32] pagerank2.py
+Maximum: 17.17 MB
+Time: 0.21 s
+
+[2025-04-14 18:47:32] pagerank2.py
+Maximum: 17.03 MB
+Time: 0.21 s
+
+[2025-04-14 18:47:44] pagerank2.py
+Maximum: 0.19 MB
+Time: 0.11 s
+
+[2025-04-14 18:47:44] pagerank2.py
+Maximum: 0.14 MB
+Time: 0.11 s
+
+[2025-04-14 18:47:44] pagerank2.py
+Maximum: 0.11 MB
+Time: 0.11 s
+
+[2025-04-14 18:47:44] pagerank2.py
+Maximum: 0.14 MB
+Time: 0.11 s
+
+[2025-04-14 18:47:45] pagerank2.py
+Maximum: 0.12 MB
+Time: 0.11 s
+
+[2025-04-14 18:47:45] pagerank2.py
+Maximum: 0.12 MB
+Time: 0.11 s
+
+[2025-04-14 18:47:45] pagerank2.py
+Maximum: 0.11 MB
+Time: 0.11 s
+
+[2025-04-14 18:47:45] pagerank2.py
+Maximum: 0.14 MB
+Time: 0.11 s
+
+[2025-04-14 18:47:45] pagerank2.py
+Maximum: 0.12 MB
+Time: 0.11 s
+
+[2025-04-14 18:47:45] pagerank2.py
+Maximum: 0.11 MB
+Time: 0.11 s
+
+[2025-04-14 18:51:33] pagerank2.py
+Maximum: 33.14 MB
+Time: 4.10 s
+
+[2025-04-14 18:51:38] pagerank2.py
+Maximum: 33.17 MB
+Time: 4.20 s
+
+[2025-04-14 18:51:42] pagerank2.py
+Maximum: 34.03 MB
+Time: 4.19 s
+
+[2025-04-14 18:51:46] pagerank2.py
+Maximum: 33.70 MB
+Time: 4.29 s
+
+[2025-04-14 18:51:50] pagerank2.py
+Maximum: 34.22 MB
+Time: 4.30 s
+
+[2025-04-14 18:51:55] pagerank2.py
+Maximum: 35.05 MB
+Time: 4.20 s
+
+[2025-04-14 18:51:59] pagerank2.py
+Maximum: 33.55 MB
+Time: 4.30 s
+
+[2025-04-14 18:52:06] pagerank2.py
+Maximum: 26.81 MB
+Time: 7.14 s
+
+[2025-04-14 18:52:13] pagerank2.py
+Maximum: 26.41 MB
+Time: 7.03 s
+
+[2025-04-14 18:52:20] pagerank2.py
+Maximum: 26.70 MB
+Time: 7.14 s
+
+[2025-04-14 18:52:35] pagerank2.py
+Maximum: 27.20 MB
+Time: 6.93 s
+
+[2025-04-14 18:52:42] pagerank2.py
+Maximum: 26.64 MB
+Time: 7.14 s
+
+[2025-04-14 18:52:49] pagerank2.py
+Maximum: 26.41 MB
+Time: 7.04 s
+
+[2025-04-14 18:52:56] pagerank2.py
+Maximum: 26.41 MB
+Time: 7.04 s
+
+[2025-04-14 18:53:03] pagerank2.py
+Maximum: 27.08 MB
+Time: 7.03 s
+
+[2025-04-14 18:53:10] pagerank2.py
+Maximum: 28.28 MB
+Time: 7.04 s
+
+[2025-04-14 18:53:17] pagerank2.py
+Maximum: 26.78 MB
+Time: 7.04 s
+
+[2025-04-14 18:53:25] pagerank2.py
+Maximum: 26.41 MB
+Time: 7.14 s
+
+[2025-04-14 18:53:32] pagerank2.py
+Maximum: 27.16 MB
+Time: 6.93 s
+
+[2025-04-14 18:53:39] pagerank2.py
+Maximum: 26.41 MB
+Time: 7.14 s
+
+[2025-04-14 19:01:01] pagerank2.py
+Maximum: 32.02 MB
+Time: 320.46 s
+
+[2025-04-14 19:06:26] pagerank2.py
+Maximum: 31.06 MB
+Time: 325.75 s
+
+[2025-04-14 19:09:55] pagerank2.py
+Maximum: 28.11 MB
+Time: 7.04 s
+
+[2025-04-14 19:10:02] pagerank2.py
+Maximum: 26.41 MB
+Time: 7.04 s
+
+[2025-04-14 19:10:09] pagerank2.py
+Maximum: 26.75 MB
+Time: 7.04 s
+
+[2025-04-14 19:10:16] pagerank2.py
+Maximum: 26.78 MB
+Time: 6.93 s
+
+[2025-04-14 19:10:23] pagerank2.py
+Maximum: 26.41 MB
+Time: 7.04 s
+
+[2025-04-14 19:10:30] pagerank2.py
+Maximum: 26.64 MB
+Time: 7.03 s
+
+[2025-04-14 19:10:37] pagerank2.py
+Maximum: 26.78 MB
+Time: 7.04 s
+
+[2025-04-14 19:10:44] pagerank2.py
+Maximum: 26.75 MB
+Time: 7.04 s
+
+[2025-04-14 19:10:51] pagerank2.py
+Maximum: 26.41 MB
+Time: 7.04 s
+
+[2025-04-14 19:10:58] pagerank2.py
+Maximum: 26.41 MB
+Time: 7.04 s
+
+[2025-04-14 20:00:18] pagerank3.py
+Maximum: 20.66 MB
+Time: 5.36 s
+
+[2025-04-14 20:00:24] pagerank3.py
+Maximum: 20.66 MB
+Time: 5.46 s
+
+[2025-04-14 20:00:29] pagerank3.py
+Maximum: 20.86 MB
+Time: 5.46 s
+
+[2025-04-14 20:00:35] pagerank3.py
+Maximum: 20.44 MB
+Time: 5.78 s
+
+[2025-04-14 20:00:40] pagerank3.py
+Maximum: 20.44 MB
+Time: 5.46 s
+
+[2025-04-14 20:00:46] pagerank3.py
+Maximum: 20.86 MB
+Time: 5.57 s
+
+[2025-04-14 20:00:51] pagerank3.py
+Maximum: 20.67 MB
+Time: 5.57 s
+
+[2025-04-14 20:00:57] pagerank3.py
+Maximum: 20.94 MB
+Time: 5.45 s
+
+[2025-04-14 20:01:02] pagerank3.py
+Maximum: 20.44 MB
+Time: 5.56 s
+
+[2025-04-14 20:01:08] pagerank3.py
+Maximum: 20.86 MB
+Time: 5.57 s
+
+[2025-04-14 20:11:49] pagerank2.py
+Maximum: 24.36 MB
+Time: 0.21 s
+
+[2025-04-14 20:11:49] pagerank2.py
+Maximum: 0.12 MB
+Time: 0.11 s
+
+[2025-04-14 20:11:49] pagerank2.py
+Maximum: 0.14 MB
+Time: 0.11 s
+
+[2025-04-14 20:11:50] pagerank2.py
+Maximum: 0.12 MB
+Time: 0.11 s
+
+[2025-04-14 20:11:50] pagerank2.py
+Maximum: 0.11 MB
+Time: 0.11 s
+
+[2025-04-14 20:11:50] pagerank2.py
+Maximum: 0.12 MB
+Time: 0.11 s
+
+[2025-04-14 20:11:50] pagerank2.py
+Maximum: 0.12 MB
+Time: 0.11 s
+
+[2025-04-14 20:11:50] pagerank2.py
+Maximum: 0.14 MB
+Time: 0.11 s
+
+[2025-04-14 20:11:50] pagerank2.py
+Maximum: 0.14 MB
+Time: 0.11 s
+
+[2025-04-14 20:11:50] pagerank2.py
+Maximum: 0.14 MB
+Time: 0.11 s
+
+[2025-04-14 20:12:54] pagerank2.py
+Maximum: 14.69 MB
+Time: 13.44 s
+
+[2025-04-14 20:13:08] pagerank2.py
+Maximum: 16.03 MB
+Time: 13.97 s
+
+[2025-04-14 20:13:22] pagerank2.py
+Maximum: 14.88 MB
+Time: 14.05 s
+
+[2025-04-14 20:13:36] pagerank2.py
+Maximum: 14.81 MB
+Time: 14.13 s
+
+[2025-04-14 20:13:50] pagerank2.py
+Maximum: 14.73 MB
+Time: 13.84 s
+
+[2025-04-14 20:19:04] pagerank2.py
+Maximum: 21.11 MB
+Time: 304.10 s
+
+[2025-04-14 20:19:04] pagerank2.py
+Maximum: 0.14 MB
+Time: 0.11 s
+
+[2025-04-14 20:19:05] pagerank2.py
+Maximum: 0.06 MB
+Time: 0.11 s
+
+[2025-04-14 20:19:05] pagerank2.py
+Maximum: 0.11 MB
+Time: 0.11 s
+
+[2025-04-14 20:19:05] pagerank2.py
+Maximum: 0.08 MB
+Time: 0.11 s
+
+[2025-04-14 20:19:05] pagerank2.py
+Maximum: 0.11 MB
+Time: 0.11 s
+
+[2025-04-14 20:19:05] pagerank2.py
+Maximum: 0.44 MB
+Time: 0.11 s
+
+[2025-04-14 20:19:05] pagerank2.py
+Maximum: 0.14 MB
+Time: 0.11 s
+
+[2025-04-14 20:19:05] pagerank2.py
+Maximum: 0.14 MB
+Time: 0.11 s
+
+[2025-04-14 20:19:05] pagerank2.py
+Maximum: 0.11 MB
+Time: 0.11 s
+
+[2025-04-14 20:30:33] pagerank3.py
+Maximum: 20.59 MB
+Time: 5.46 s
+
+[2025-04-14 20:30:38] pagerank3.py
+Maximum: 20.69 MB
+Time: 5.57 s
+
+[2025-04-14 20:30:44] pagerank3.py
+Maximum: 21.20 MB
+Time: 5.57 s
+
+[2025-04-14 20:30:49] pagerank3.py
+Maximum: 20.69 MB
+Time: 5.57 s
+
+[2025-04-14 20:30:55] pagerank3.py
+Maximum: 21.47 MB
+Time: 5.55 s
+
+[2025-04-14 20:31:00] pagerank3.py
+Maximum: 20.84 MB
+Time: 5.66 s
+
+[2025-04-14 20:31:06] pagerank3.py
+Maximum: 20.66 MB
+Time: 5.46 s
+
+[2025-04-14 20:31:11] pagerank3.py
+Maximum: 20.69 MB
+Time: 5.57 s
+
+[2025-04-14 20:31:17] pagerank3.py
+Maximum: 20.42 MB
+Time: 5.46 s
+
+[2025-04-14 20:31:23] pagerank3.py
+Maximum: 20.42 MB
+Time: 5.57 s
+
+[2025-04-20 12:47:37] pagerank3.py
+Maximum: 20.97 MB
+Time: 5.56 s
+
+[2025-04-20 12:47:42] pagerank3.py
+Maximum: 21.25 MB
+Time: 5.55 s
+
+[2025-04-20 12:47:48] pagerank3.py
+Maximum: 20.69 MB
+Time: 5.57 s
+
+[2025-04-20 12:47:53] pagerank3.py
+Maximum: 20.84 MB
+Time: 5.57 s
+
+[2025-04-20 12:47:59] pagerank3.py
+Maximum: 20.61 MB
+Time: 5.67 s
+
+[2025-04-20 12:48:05] pagerank3.py
+Maximum: 20.95 MB
+Time: 6.14 s
+
+[2025-04-20 12:48:11] pagerank3.py
+Maximum: 21.59 MB
+Time: 5.74 s
+
+[2025-04-20 12:48:17] pagerank3.py
+Maximum: 20.69 MB
+Time: 5.67 s
+
+[2025-04-20 12:48:22] pagerank3.py
+Maximum: 20.61 MB
+Time: 5.65 s
+
+[2025-04-20 12:48:28] pagerank3.py
+Maximum: 21.03 MB
+Time: 5.65 s
+
+[2025-04-20 17:39:15] pagerank4.py
+Maximum: 13.67 MB
+Time: 609.84 s
+
+[2025-04-20 17:39:28] pagerank4.py
+Maximum: 11.91 MB
+Time: 13.17 s
+
+[2025-04-20 17:39:29] pagerank4.py
+Maximum: 11.28 MB
+Time: 0.89 s
+
+[2025-04-20 17:39:29] pagerank4.py
+Maximum: 10.98 MB
+Time: 0.51 s
+
+[2025-04-20 17:39:30] pagerank4.py
+Maximum: 10.98 MB
+Time: 0.30 s
+
+[2025-04-20 17:39:30] pagerank4.py
+Maximum: 10.98 MB
+Time: 0.30 s
+
+[2025-04-20 17:39:30] pagerank4.py
+Maximum: 10.98 MB
+Time: 0.25 s
+
+[2025-04-20 17:39:30] pagerank4.py
+Maximum: 10.98 MB
+Time: 0.26 s
+
+[2025-04-20 17:39:31] pagerank4.py
+Maximum: 10.98 MB
+Time: 0.26 s
+
+[2025-04-20 17:39:31] pagerank4.py
+Maximum: 10.98 MB
+Time: 0.20 s
+
+[2025-04-23 19:04:39] pagerank_batch.py
+Maximum: 16.23 MB
+Time: 42.09 s
+
+[2025-04-23 19:05:22] pagerank_batch.py
+Maximum: 17.19 MB
+Time: 42.16 s
+
+[2025-04-23 19:06:04] pagerank_batch.py
+Maximum: 16.95 MB
+Time: 42.39 s
+
+[2025-04-23 19:06:47] pagerank_batch.py
+Maximum: 17.23 MB
+Time: 42.58 s
+
+[2025-04-23 19:07:29] pagerank_batch.py
+Maximum: 16.17 MB
+Time: 42.55 s
+
+[2025-04-23 19:08:12] pagerank_batch.py
+Maximum: 16.67 MB
+Time: 42.79 s
+
+[2025-04-23 19:08:55] pagerank_batch.py
+Maximum: 16.78 MB
+Time: 42.98 s
+
+[2025-04-23 19:09:38] pagerank_batch.py
+Maximum: 16.36 MB
+Time: 42.76 s
+
+[2025-04-23 19:10:21] pagerank_batch.py
+Maximum: 17.50 MB
+Time: 43.27 s
+
+[2025-04-23 19:11:22] pagerank_batch.py
+Maximum: 16.09 MB
+Time: 61.29 s
+
+[2025-04-23 19:17:56] pagerank_batch_optim.py
+Maximum: 23.16 MB
+Time: 3.15 s
+
+[2025-04-23 19:18:00] pagerank_batch_optim.py
+Maximum: 21.08 MB
+Time: 3.15 s
+
+[2025-04-23 19:18:03] pagerank_batch_optim.py
+Maximum: 21.98 MB
+Time: 3.15 s
+
+[2025-04-23 19:18:06] pagerank_batch_optim.py
+Maximum: 21.08 MB
+Time: 3.15 s
+
+[2025-04-23 19:18:09] pagerank_batch_optim.py
+Maximum: 22.53 MB
+Time: 3.15 s
+
+[2025-04-23 19:18:12] pagerank_batch_optim.py
+Maximum: 23.33 MB
+Time: 3.14 s
+
+[2025-04-23 19:18:16] pagerank_batch_optim.py
+Maximum: 24.33 MB
+Time: 3.34 s
+
+[2025-04-23 19:18:19] pagerank_batch_optim.py
+Maximum: 23.97 MB
+Time: 3.14 s
+
+[2025-04-23 19:18:22] pagerank_batch_optim.py
+Maximum: 22.38 MB
+Time: 3.15 s
+
+[2025-04-23 19:18:25] pagerank_batch_optim.py
+Maximum: 24.30 MB
+Time: 3.14 s
+
+[2025-04-23 19:23:01] pagerank_batch_optim.py
+Maximum: 13.97 MB
+Time: 119.88 s
+
+[2025-04-23 19:24:16] pagerank_batch_optim.py
+Maximum: 14.11 MB
+Time: 74.68 s
+
+[2025-04-23 19:24:19] pagerank_batch_optim.py
+Maximum: 12.27 MB
+Time: 2.78 s
+
+[2025-04-23 19:24:19] pagerank_batch_optim.py
+Maximum: 12.22 MB
+Time: 0.39 s
+
+[2025-04-23 19:24:20] pagerank_batch_optim.py
+Maximum: 12.22 MB
+Time: 0.33 s
+
+[2025-04-23 19:24:20] pagerank_batch_optim.py
+Maximum: 12.22 MB
+Time: 0.43 s
+
+[2025-04-23 19:24:21] pagerank_batch_optim.py
+Maximum: 12.22 MB
+Time: 0.49 s
+
+[2025-04-23 19:24:21] pagerank_batch_optim.py
+Maximum: 12.22 MB
+Time: 0.40 s
+
+[2025-04-23 19:24:21] pagerank_batch_optim.py
+Maximum: 12.22 MB
+Time: 0.44 s
+
+[2025-04-23 19:24:22] pagerank_batch_optim.py
+Maximum: 12.22 MB
+Time: 0.42 s
+
+[2025-04-23 19:26:33] pagerank_batch_optim.py
+Maximum: 14.48 MB
+Time: 121.19 s
+
+[2025-04-23 19:28:35] pagerank_batch_optim.py
+Maximum: 14.17 MB
+Time: 121.86 s
+
+[2025-04-23 19:30:03] pagerank_batch_optim.py
+Maximum: 14.12 MB
+Time: 88.50 s
+
+[2025-04-23 19:30:04] pagerank_batch_optim.py
+Maximum: 12.27 MB
+Time: 0.47 s
+
+[2025-04-23 19:30:04] pagerank_batch_optim.py
+Maximum: 12.22 MB
+Time: 0.74 s
+
+[2025-04-23 19:30:05] pagerank_batch_optim.py
+Maximum: 12.22 MB
+Time: 0.71 s
+
+[2025-04-23 19:30:05] pagerank_batch_optim.py
+Maximum: 12.22 MB
+Time: 0.39 s
+
+[2025-04-23 19:30:06] pagerank_batch_optim.py
+Maximum: 12.22 MB
+Time: 0.39 s
+
+[2025-04-23 19:30:06] pagerank_batch_optim.py
+Maximum: 12.22 MB
+Time: 0.41 s
+
+[2025-04-23 19:30:07] pagerank_batch_optim.py
+Maximum: 12.22 MB
+Time: 0.38 s
+
